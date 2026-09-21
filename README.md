@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushi430/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0162-find-peak-element](https://github.com/khushi430/LeetCode/tree/master/0162-find-peak-element) |
+| [0322-coin-change](https://github.com/khushi430/LeetCode/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,8 +54,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushi430/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0322-coin-change](https://github.com/khushi430/LeetCode/tree/master/0322-coin-change) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushi430/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/khushi430/LeetCode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/khushi430/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/khushi430/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
